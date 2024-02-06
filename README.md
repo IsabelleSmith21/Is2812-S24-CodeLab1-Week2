@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# More Being Cool on the Playground
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Pick 4 items to show your buds and then be deemed cool or not cool or super cool! Added multiple scenes and a singleton. 
